@@ -1,0 +1,16 @@
+{
+  "name": "node-access-db",
+  "version": "1.0.0",
+  "description": "Utilizzo del database Microsoft access da Node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Malkit Sandhu",
+  "license": "MIT",
+  "dependencies": {
+    "node-adodb": "^5.0.3",
+    "sql-query": "^0.1.27"
+  }
+}
